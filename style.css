@@ -1,12 +1,16 @@
 body{
-    background-color: black;
-    border:15px ridge white;
-    border-width: 10px;
-    height: 500px;
-    width: 40%;
-    margin-left: 450px;
-    margin-top: 150px;
-    text-align: center;
+   background-color: #ff4d6d; /* Valentine's red-pink */
+border: 10px solid #fff; /* White solid border */
+border-radius: 15px; /* Rounded corners for a softer look */
+height: 500px;
+width: 40%;
+margin-left: 450px;
+margin-top: 150px;
+text-align: center;
+box-shadow: 0 0 15px rgba(255, 0, 0, 0.5); /* Soft red glow */
+color: white; /* White text for contrast */
+font-family: 'Poppins', sans-serif; /* Stylish font */
+
 }
 div.container {
     width:100%;
